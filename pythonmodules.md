@@ -26,6 +26,9 @@ List of non-default python modules
 *   [html5lib](http://code.google.com/p/html5lib/‎)
 *   BeatifulSoup
 
+# RSS, Atom:
+*   feedparser [docs](http://packages.python.org/feedparser)
+
 ## SQL ORM:
 *   SQLAlchemy (use scoped_session for Thread safe)
 
@@ -54,3 +57,7 @@ Highload?
 
 ## Markdown:
 *   [python-markdown2](https://github.com/trentm/python-markdown2)
+
+## Game:
+*   [Ogre](http://www.python-ogre.org/)
+*   PyGame [docs](http://www.pygame.org/docs/) [bitbucket](https://bitbucket.org/pygame/pygame/downloads)
