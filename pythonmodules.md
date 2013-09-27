@@ -9,6 +9,7 @@ List of non-default python modules
 ## HTTP:
 *    [urllib3](https://github.com/shazow/urllib3) (Keep-Alive support)
 *    httplib2 (Keep-Alive support)
+*    requests [docs](http://docs.python-requests.org/en/latest/) [github](https://github.com/kennethreitz/requests) (Keep-Alive support)
 
 ## OAuth:
 *   python-oauth2 (Keep-Alive support) [github](https://github.com/simplegeo/python-oauth2) [py3 fork](https://github.com/tseaver/python-oauth2)
