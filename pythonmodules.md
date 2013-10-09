@@ -61,3 +61,7 @@ Highload?
 ## Game:
 *   [Ogre](http://www.python-ogre.org/)
 *   PyGame [docs](http://www.pygame.org/docs/) [bitbucket](https://bitbucket.org/pygame/pygame/downloads)
+
+## DataBase drivers
+*   Redis [github](http://github.com/andymccurdy/redis-py/)
+*   MongoDB [github](https://github.com/mongodb/mongo-python-driver/)
