@@ -8,7 +8,7 @@ List of non-default python modules
 
 ## HTTP:
 *    [urllib3](https://github.com/shazow/urllib3) (Keep-Alive support)
-*    httplib2 (Keep-Alive support)
+*    [httplib2](http://code.google.com/p/httplib2/) (Keep-Alive support)
 *    requests [docs](http://docs.python-requests.org/en/latest/) [github](https://github.com/kennethreitz/requests) (Keep-Alive support)
 
 ## OAuth:
@@ -17,25 +17,25 @@ List of non-default python modules
 
 ## HTTP WebSite grab, crawler:
 *   [Grab](https://github.com/lorien/grab)
-*   mechanize
+*   [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
 *   [splinter](http://splinter.cobrateam.info/)
 *   [selenium](https://pypi.python.org/pypi/selenium)
 *   [scrapy](http://scrapy.org/)
 
 ## HTML parsing:
 *   [html5lib](http://code.google.com/p/html5lib/‎)
-*   BeatifulSoup
+*   [BeatifulSoup](http://www.crummy.com/software/BeautifulSoup/)
 
 # RSS, Atom:
 *   feedparser [docs](http://packages.python.org/feedparser)
 
 ## SQL ORM:
-*   SQLAlchemy (use scoped_session for Thread safe)
+*   SQLAlchemy (use scoped_session for Thread safe) [official](http://www.sqlalchemy.org/)
 
 ## Web Framework:
 *   [Django](https://www.djangoproject.com/)
 *   [Tornado](http://www.tornadoweb.org/)
-*   Pyramid
+*   [Pyramid](http://www.pylonsproject.org/projects/pyramid/about)
 
 Highload?  
 *    [Twisted](http://twistedmatrix.com/trac/)
@@ -50,7 +50,7 @@ Highload?
 
 ## SSH:
 *   [paramiko](https://github.com/paramiko/paramiko)
-*   pxssh
+*   [pxssh](http://pexpect.sourceforge.net/pxssh.html)
 
 ## Crypto:
 *   [pycrypto](https://github.com/dlitz/pycrypto)
@@ -65,3 +65,6 @@ Highload?
 ## DataBase drivers
 *   Redis [github](http://github.com/andymccurdy/redis-py/)
 *   MongoDB [github](https://github.com/mongodb/mongo-python-driver/)
+
+## Imaging
+*   PIL [official](http://www.pythonware.com/products/pil/)
