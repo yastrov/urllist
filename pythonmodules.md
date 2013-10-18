@@ -48,6 +48,7 @@ Highload?
 *   [PDFDocument](https://github.com/matthiask/pdfdocument)
 *   [pyfpdf](http://code.google.com/p/pyfpdf/)
 *   [pdfrw](http://code.google.com/p/pdfrw/)
+*   [reportlab](http://www.reportlab.com/software/opensource/) [bitbucket](https://bitbucket.org/rptlab/reportlab) (many features)
 
 ## USB:
 *   [pyusb](https://github.com/walac/pyusb)
