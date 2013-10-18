@@ -45,6 +45,9 @@ Highload?
 ## PDF:
 *   PDFMiner [url](http://www.unixuser.org/~euske/python/pdfminer/index.html) [github](https://github.com/euske/pdfminer/)   [pdfminer-layout-scanner](https://github.com/dpapathanasiou/pdfminer-layout-scanner)
 *   PyPDF2 [github](https://github.com/knowah/PyPDF2/)
+*   [PDFDocument](https://github.com/matthiask/pdfdocument)
+*   [pyfpdf](http://code.google.com/p/pyfpdf/)
+*   [pdfrw](http://code.google.com/p/pdfrw/)
 
 ## USB:
 *   [pyusb](https://github.com/walac/pyusb)
