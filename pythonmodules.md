@@ -14,6 +14,7 @@ List of non-default python modules
 ## OAuth:
 *   python-oauth2 (Keep-Alive support) [github](https://github.com/simplegeo/python-oauth2) [py3 fork](https://github.com/tseaver/python-oauth2)
 *   rauth (oauth) [github](https://github.com/litl/rauth)
+*   [python-foauth2](https://github.com/jackdied/python-foauth2)
 
 ## HTTP WebSite grab, crawler:
 *   [Grab](https://github.com/lorien/grab)
