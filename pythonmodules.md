@@ -72,6 +72,7 @@ Highload?
 *   MongoDB [github](https://github.com/mongodb/mongo-python-driver/)
 *   Mongo for Twisted [github](https://github.com/fiorix/mongo-async-python-driver)
 *   Mongo for Tornado [github](https://github.com/bitly/asyncmongo)
+*   Motor for Tornado [github](https://github.com/mongodb/motor)
 
 ## Imaging
 *   PIL [official](http://www.pythonware.com/products/pil/)
