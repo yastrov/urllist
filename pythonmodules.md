@@ -70,6 +70,12 @@ Highload?
 ## DataBase drivers
 *   Redis [github](http://github.com/andymccurdy/redis-py/)
 *   MongoDB [github](https://github.com/mongodb/mongo-python-driver/)
+*   Mongo for Twisted [github](https://github.com/fiorix/mongo-async-python-driver)
+*   Mongo for Tornado [github](https://github.com/bitly/asyncmongo)
 
 ## Imaging
 *   PIL [official](http://www.pythonware.com/products/pil/)
+
+## Science
+*  Matplotlib [official](http://matplotlib.org/) [github](https://github.com/matplotlib/matplotlib)
+*  SciPy [official](http://www.scipy.org/)
