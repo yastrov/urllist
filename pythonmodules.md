@@ -75,8 +75,12 @@ Highload?
 *   Motor for Tornado [github](https://github.com/mongodb/motor)
 
 ## Imaging
-*   PIL [official](http://www.pythonware.com/products/pil/)
+*  [PIL](http://www.pythonware.com/products/pil/)
 
 ## Science
-*  Matplotlib [official](http://matplotlib.org/) [github](https://github.com/matplotlib/matplotlib)
-*  SciPy [official](http://www.scipy.org/)
+*  [Matplotlib](http://matplotlib.org/) [github](https://github.com/matplotlib/matplotlib)
+*  [SciPy](http://www.scipy.org/)
+*  [NumPy](http://www.numpy.org/)
+
+## Data analysis
+*  [pandas](http://pandas.pydata.org/) [github](http://github.com/pydata/pandas)
