@@ -5,6 +5,10 @@
 ## HTML
 *   [Dive Into HTML5](http://diveinto.html5doctor.com/)
 
+## RESTfull
+*   [REST patterns](http://restpatterns.org/)
+*   [post from blog](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
+
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
