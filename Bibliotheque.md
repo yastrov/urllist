@@ -8,6 +8,7 @@
 ## RESTfull
 *   [REST patterns](http://restpatterns.org/)
 *   [post from blog](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
+*   [REST Coockbook](http://restcookbook.com/) [github](https://github.com/restcookbook/restcookbook)
 
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
@@ -54,6 +55,10 @@
 
 ## Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
+
+## REgular Expression
+*   [Regular Expression Matching Can Be Simple And Fast
+(but is slow in Java, Perl, PHP, Python, Ruby, ...) ](http://swtch.com/~rsc/regexp/regexp1.html)
 
 ## See also free collections
 *   [habr](http://habrahabr.ru/post/191312/)
