@@ -23,6 +23,7 @@
 ## Mercurial
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 *   [Hg Init: a Mercurial tutorial by Joel Spolsky](http://hginit.com/)
+*   [Hg Init - Ru version on Habr](http://habrahabr.ru/post/108658/)
 
 ## HTTP
 *   [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
@@ -60,6 +61,7 @@
 ## .NET
 *   [Free ASP NET MVC Tutorial](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
 [pdf](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf)
+*   [Уроки ASP.NET MVC on habr](http://habrahabr.ru/post/175999/)
 
 ## Design
 *   [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
