@@ -24,6 +24,7 @@
 ## Python
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in Python](http://www.brpreiss.com/books/opus7/)
 *   [Dive into Python 3](http://www.diveinto.org/python3/)
+*   [A Star realisation](http://scriptogr.am/jdp/post/pathfinding-with-python-graphs-and-a-star)
 
 ## C Sharp
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
