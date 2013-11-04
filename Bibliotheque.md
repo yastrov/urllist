@@ -59,9 +59,12 @@
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 *   [Threading](http://www.albahari.com/threading/)
 *   [C Sharp Essential](http://www.techotopia.com/index.php/C_Sharp_Essentials)
+*   [Developing MapReduce.NET Applications](http://www.manjrasoft.com/download/2.0/MapReduceModel.pdf)
+*   [MapReduce article on codeproject](http://www.codeproject.com/Articles/524233/MapReduceplus-2fplusMapplusReductionplusStrategies)
+*   [MapReduce article](http://www.developerzen.com/2009/05/06/introduction-to-mapreduce-for-net-developers/)
 
 ## .NET
-*   [Free ASP NET MVC Tutorial](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
+*   [Free ASP .NET MVC Tutorial](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
 ([pdf](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf))
 *   [Уроки ASP.NET MVC on habr](http://habrahabr.ru/post/175999/) ([bitbucket](https://bitbucket.org/chernikov/lessons/src) )
 
@@ -96,6 +99,9 @@
 *   [habr](http://habrahabr.ru/post/191312/)
 *   [collection miripiruni](https://github.com/miripiruni/frontdesk)
 *   [HackerShelf](http://hackershelf.com/browse/)
+
+## Other
+*   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf)
 
 ## Non-Free:
 *   Albahari J., Albahari B. - C# 5.0 in a Nutshell, 5th Edition - 2012
