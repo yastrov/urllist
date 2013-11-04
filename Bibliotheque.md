@@ -107,5 +107,7 @@
 
 ## Non-Free:
 *   Albahari J., Albahari B. - C# 5.0 in a Nutshell, 5th Edition - 2012
-*   Toby Segaran - Programming Collective Intelligence
+*   Richter J. - CLR via C# - 2012
+*   Troelsen A. - Pro C# 5.0 and the .NET 4.5 Framework (The Expert's Voice in .NET) - 2012
+*   Toby Segaran - Programming Collective Intelligence (with Python Examples)
 *   Jim Webber, Savas Parastatidis, and Ian Robinson - REST in Practice
