@@ -99,6 +99,8 @@
 *   [habr](http://habrahabr.ru/post/191312/)
 *   [collection miripiruni](https://github.com/miripiruni/frontdesk)
 *   [HackerShelf](http://hackershelf.com/browse/)
+*   [Microsoft Free Ebooks 1](http://blogs.msdn.com/b/mssmallbiz/archive/2013/06/28/almost-150-free-microsoft-ebooks-covering-windows-7-windows-8-office-2010-office-2013-office-365-office-web-apps-windows-server-2012-windows-phone-7-windows-phone-8-sql-server-2008-sql-server-2012-sharepoint-server-2010-s.aspx)
+*   [Microsoft Free Ebooks 2](http://blogs.msdn.com/b/mssmallbiz/archive/2013/06/18/huge-collection-of-free-microsoft-ebooks-for-you-including-office-office-365-sharepoint-sql-server-system-center-visual-studio-web-development-windows-windows-azure-and-windows-server.aspx)
 
 ## Other
 *   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf)
