@@ -59,7 +59,7 @@
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
 *   [Threading](http://www.albahari.com/threading/)
 *   [C Sharp Essential](http://www.techotopia.com/index.php/C_Sharp_Essentials)
-*   [Developing MapReduce.NET Applications](http://www.manjrasoft.com/download/2.0/MapReduceModel.pdf)
+*   Developing MapReduce.NET Applications ([pdf](http://www.manjrasoft.com/download/2.0/MapReduceModel.pdf)) ([sources](http://manjrasoft.com/example-codes/MapReduceModel.zip))
 *   [MapReduce article on codeproject](http://www.codeproject.com/Articles/524233/MapReduceplus-2fplusMapplusReductionplusStrategies)
 *   [MapReduce article](http://www.developerzen.com/2009/05/06/introduction-to-mapreduce-for-net-developers/)
 
