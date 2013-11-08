@@ -35,6 +35,10 @@
 *   [post from blog](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
 *   [REST Coockbook](http://restcookbook.com/) ([github](https://github.com/restcookbook/restcookbook))
 
+## Java
+*   [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/)
+*   [Data Structures and Algorithm Analysis](http://people.cs.vt.edu/~shaffer/Book/)
+
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
