@@ -34,6 +34,7 @@
 *   [REST patterns](http://restpatterns.org/)
 *   [post from blog](http://blog.steveklabnik.com/posts/2011-08-07-some-people-understand-rest-and-http)
 *   [REST Coockbook](http://restcookbook.com/) ([github](https://github.com/restcookbook/restcookbook))
+*   [REST API Tutorial](http://www.restapitutorial.com/) ([github](https://github.com/tfredrich/RestApiTutorial.com))
 
 ## Java
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/)
