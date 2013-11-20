@@ -40,7 +40,7 @@
 *   [Pro Git](http://progit.org/book/) ([ru](http://git-scm.com/book/ru/)) ([en](http://git-scm.com/book))
 *   [Git how to](http://githowto.com/) ([ru](http://githowto.com/ru))
 *   [The Git Community Book](http://book.git-scm.com/)
-*   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/)
+*   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) ([ru](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru/))
 *   [Version Control for Designers](http://hoth.entp.com/output/git_for_designers.html)
 *   [GitHowTo](http://githowto.com)
 *   [Try Git](http://try.github.com)
