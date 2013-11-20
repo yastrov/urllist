@@ -59,6 +59,7 @@
 *   [Functional Programming presentation](http://kachayev.github.io/talks/uapycon2012/index.html#/)
 *   [Twisted Tutorial in LJ](http://jcalderone.livejournal.com/tag/sixty%20seconds)
 *   [Twisted Introduction](http://krondo.com/?page_id=1327)
+*   [Effective Django](http://effectivedjango.com/)
 
 ## C Sharp
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](http://www.brpreiss.com/books/opus6/)
@@ -100,6 +101,11 @@
 
 ## Haskell
 *   [Ru Haskell book](http://anton-k.github.io/ru-haskell-book/book/home.html)
+
+## Android
+*   [Android Programming Tutorials](http://commonsware.com/AndTutorials/)
+*   [The Busy Coder's Guide to Advanced Android Development](http://commonsware.com/AdvAndroid/)
+*   [Статьи Дарьи Ряжских](http://darja.info/ru/articles)
 
 ## See also free collections
 *   [habr](http://habrahabr.ru/post/191312/)
