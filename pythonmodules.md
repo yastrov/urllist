@@ -84,3 +84,9 @@ Highload?
 
 ## Data analysis
 *  [pandas](http://pandas.pydata.org/) [github](http://github.com/pydata/pandas)
+
+## File System
+*  python-inotify [github](https://github.com/maliubiao/python-inotify)
+*  inotify-tools [github](https://github.com/rvoicilas/inotify-tools)
+*  [watch directory for changes in win32](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
+*  [Why you should not use pyinotify](http://www.serpentine.com/blog/2008/01/04/why-you-should-not-use-pyinotify/)
