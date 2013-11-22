@@ -117,6 +117,7 @@
 *   [Microsoft Free Ebooks 2](http://blogs.msdn.com/b/mssmallbiz/archive/2013/06/18/huge-collection-of-free-microsoft-ebooks-for-you-including-office-office-365-sharepoint-sql-server-system-center-visual-studio-web-development-windows-windows-azure-and-windows-server.aspx)
 
 ## Non-Free:
+*   Reese R. - Understanding and Using C Pointers - 2013
 *   Richter J. - CLR via C# - 2012
 *   Jim Webber, Savas Parastatidis, and Ian Robinson - REST in Practice
 *   Toby Segaran - Programming Collective Intelligence (with Python Examples)
