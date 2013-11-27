@@ -41,6 +41,7 @@ List of non-default python modules
 Highload?  
 *    [Twisted](http://twistedmatrix.com/trac/)
 *    [nacho](https://github.com/avelino/nacho) Python micro web-framework and asynchronous networking library, support Python 3.x
+*    Python JSON-RPC v2.0 (mixin) [github](https://github.com/dmora/python-mixin-json-rpc2)  
 
 ## PDF:
 *   PDFMiner [url](http://www.unixuser.org/~euske/python/pdfminer/index.html) [github](https://github.com/euske/pdfminer/)   [pdfminer-layout-scanner](https://github.com/dpapathanasiou/pdfminer-layout-scanner)
@@ -90,6 +91,14 @@ Highload?
 *  inotify-tools [github](https://github.com/rvoicilas/inotify-tools)
 *  [watch directory for changes in win32](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
 *  [Why you should not use pyinotify](http://www.serpentine.com/blog/2008/01/04/why-you-should-not-use-pyinotify/)
+
+# For Twisted
+*  treq [github](https://github.com/dreid/treq) [doc](http://treq.readthedocs.org/en/latest/) Python requests like API built on top of Twisted's HTTP client.  
+*  jsonrpc 2.0 client/server library for Twisted [github](https://github.com/flowroute/txjason)  
+*  txJSON-RPC allows you to create async Python JSON-RPC [github](https://github.com/oubiwann/txjsonrpc)  
+*  [txJSON-RPC](https://pypi.python.org/pypi/txJSON-RPC)
+*  PyAMF [offsite](http://www.pyamf.org/index.html) Python support for the  AMF format, used for RPC communication with Adobe's Flash Player  
+*  Twisted REST API [github](https://github.com/iancmcc/txrestapi)
 
 ## Links
 *  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
