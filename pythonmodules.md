@@ -37,6 +37,7 @@ List of non-default python modules
 *   [Django](https://www.djangoproject.com/)
 *   [Tornado](http://www.tornadoweb.org/)
 *   [Pyramid](http://www.pylonsproject.org/projects/pyramid/about)
+*   Flask microframework [github](http://github.com/mitsuhiko/flask) [doc](http://flask.pocoo.org/)
 
 Highload?  
 *    [Twisted](http://twistedmatrix.com/trac/)
