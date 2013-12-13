@@ -43,6 +43,10 @@ Highload?
 *    [Twisted](http://twistedmatrix.com/trac/)
 *    [nacho](https://github.com/avelino/nacho) Python micro web-framework and asynchronous networking library, support Python 3.x
 *    Python JSON-RPC v2.0 (mixin) [github](https://github.com/dmora/python-mixin-json-rpc2)  
+*    Flask is a microframework [doc](http://flask.pocoo.org/) [github](http://github.com/mitsuhiko/flask)
+
+## Template engine
+*    Jinja2 [doc](http://jinja.pocoo.org/) [github](https://github.com/mitsuhiko/jinja2)  
 
 ## PDF:
 *   PDFMiner [url](http://www.unixuser.org/~euske/python/pdfminer/index.html) [github](https://github.com/euske/pdfminer/)   [pdfminer-layout-scanner](https://github.com/dpapathanasiou/pdfminer-layout-scanner)
