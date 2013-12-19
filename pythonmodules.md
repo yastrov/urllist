@@ -16,6 +16,7 @@ List of non-default python modules
 *   rauth (oauth) [github](https://github.com/litl/rauth)
 *   [python-foauth2](https://github.com/jackdied/python-foauth2)
 *   Django OAuth 2.0 Server App [doc](http://hiidef.github.io/oauth2app/) [github](https://github.com/hiidef/oauth2app)
+*   OAuth2 goodies for the Djangonauts! [github](https://github.com/evonove/django-oauth-toolkit)  
 
 ## HTTP WebSite grab, crawler:
 *   [Grab](https://github.com/lorien/grab)
@@ -105,6 +106,9 @@ Highload?
 *  [txJSON-RPC](https://pypi.python.org/pypi/txJSON-RPC)
 *  PyAMF [offsite](http://www.pyamf.org/index.html) Python support for the  AMF format, used for RPC communication with Adobe's Flash Player  
 *  Twisted REST API [github](https://github.com/iancmcc/txrestapi)
+
+# For Django
+*  django-tastypie for API [github](https://github.com/toastdriven/django-tastypie)  
 
 ## Links
 *  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
