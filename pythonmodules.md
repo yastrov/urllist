@@ -109,6 +109,7 @@ Highload?
 
 # For Django
 *  django-tastypie for API [github](https://github.com/toastdriven/django-tastypie)  
+*  Django REST framework [doc](http://www.django-rest-framework.org/) [github](https://github.com/tomchristie/django-rest-framework/tree/master)  
 
 ## Links
 *  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
