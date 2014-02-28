@@ -111,5 +111,8 @@ Highload?
 *  django-tastypie for API [github](https://github.com/toastdriven/django-tastypie)  
 *  Django REST framework [doc](http://www.django-rest-framework.org/) [github](https://github.com/tomchristie/django-rest-framework/tree/master)  
 
+# For Flask
+*  Miguel Grinberg [tutrial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [examples](https://github.com/miguelgrinberg/flasky/tree/master/app) [full blog](http://blog.miguelgrinberg.com/)  
+
 ## Links
-*  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+*  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)  
