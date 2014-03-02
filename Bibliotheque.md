@@ -8,6 +8,9 @@
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
 
+## BigData
+*   ["Mining of Massive Datasets" Anand Rajaraman, Jure Leskovec Stanford Univ. Jeffrey D. Ullman Stanford Univ.](http://infolab.stanford.edu/~ullman/mmds.html)  
+
 ## Business
 *   [Getting Real](http://gettingreal.37signals.com/) ([ru](http://gettingreal.37signals.com/GR_rus.php#ch01))
 
@@ -88,6 +91,7 @@
 *   [Twisted Tutorial in LJ](http://jcalderone.livejournal.com/tag/sixty%20seconds)
 *   [Twisted Introduction](http://krondo.com/?page_id=1327)
 *   [Effective Django](http://effectivedjango.com/)
+*   Miguel Grinberg about Flask [tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [examples](https://github.com/miguelgrinberg/flasky/tree/master/app) [full blog](http://blog.miguelgrinberg.com/)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
