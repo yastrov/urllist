@@ -115,7 +115,7 @@
 *   [ Version Control with Subversion](http://svnbook.red-bean.com/index.en.html)
 
 ## Other
-*   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf)
+*   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf) [google version](http://research.google.com/archive/mapreduce.html)  
 
 ## See also free collections
 *   [habr](http://habrahabr.ru/post/191312/)
