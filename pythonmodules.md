@@ -89,6 +89,7 @@ Highload?
 *  [Matplotlib](http://matplotlib.org/) [github](https://github.com/matplotlib/matplotlib)
 *  [SciPy](http://www.scipy.org/)
 *  [NumPy](http://www.numpy.org/)
+*  [scikit-learn - Machine Learning](http://scikit-learn.org/stable/)  
 
 ## Data analysis
 *  [pandas](http://pandas.pydata.org/) [github](http://github.com/pydata/pandas)
