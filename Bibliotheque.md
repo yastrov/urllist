@@ -116,6 +116,7 @@
 
 ## Other
 *   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf) [google version](http://research.google.com/archive/mapreduce.html)  
+*   [Data-Intensive Text Processing with MapReduce](https://github.com/lintool/MapReduceAlgorithms) [site](http://lintool.github.io/MapReduceAlgorithms/index.html)  
 
 ## See also free collections
 *   [habr](http://habrahabr.ru/post/191312/)
