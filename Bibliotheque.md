@@ -64,11 +64,12 @@
 ## Java
 *   [Data Structures and Algorithms with Object-Oriented Design Patterns in Java](http://www.brpreiss.com/books/opus5/)
 *   [Data Structures and Algorithm Analysis](http://people.cs.vt.edu/~shaffer/Book/)
+*   [java 8 Examples](https://github.com/winterbe/java8-tutorial/tree/master/src/com/winterbe/java8)
 
 ## JavaScript
 *   [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
 *   [Essential JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+*   [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) [rus](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 
 ## jQuery
 *   [jQuery для начинающих](http://anton.shevchuk.name/jquery-book/)
@@ -113,6 +114,9 @@
 ## SVN
 *   [SVN how to](http://svnhowto.com/)
 *   [ Version Control with Subversion](http://svnbook.red-bean.com/index.en.html)
+
+## Vim
+*   Просто о Vim (Byte of Vim) [rus](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf)  [eng](http://swaroopch.com/notes/Vim/)  
 
 ## Other
 *   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf) [google version](http://research.google.com/archive/mapreduce.html)  
