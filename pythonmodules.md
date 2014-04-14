@@ -83,7 +83,8 @@ Highload?
 *   Motor for Tornado [github](https://github.com/mongodb/motor)
 
 ## Imaging
-*  [PIL](http://www.pythonware.com/products/pil/)
+*  [PIL](http://www.pythonware.com/products/pil/)  
+*  [Pillow](https://github.com/python-imaging/Pillow)  
 
 ## Science
 *  [Matplotlib](http://matplotlib.org/) [github](https://github.com/matplotlib/matplotlib)
@@ -114,6 +115,9 @@ Highload?
 
 # For Flask
 *  Miguel Grinberg [tutrial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [examples](https://github.com/miguelgrinberg/flasky/tree/master/app) [full blog](http://blog.miguelgrinberg.com/)  
+
+# Other
+*  [PyWin32](http://sourceforge.net/projects/pywin32/)
 
 ## Links
 *  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)  
