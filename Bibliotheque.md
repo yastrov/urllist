@@ -4,6 +4,14 @@
 *   [Android Programming Tutorials](http://commonsware.com/AndTutorials/)
 *   [The Busy Coder's Guide to Advanced Android Development](http://commonsware.com/AdvAndroid/)
 *   [Статьи Дарьи Ряжских](http://darja.info/ru/articles)
+*   [
+Android Programming Tutorials](http://www.edumobile.org/android/category/android-programming-tutorials/)  
+*   [
+Grokking Android](http://www.grokkingandroid.com/tutorials/)  
+*   [Vogella Android Development Starter Tutorials ](http://www.vogella.com/tutorials/android.html)  
+*   [
+Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)  
+*   [Stanford CS193a (for old Android)](http://www.stanford.edu/class/cs193a/)  
 
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
