@@ -34,6 +34,10 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [MapReduce article on codeproject](http://www.codeproject.com/Articles/524233/MapReduceplus-2fplusMapplusReductionplusStrategies)
 *   [MapReduce article](http://www.developerzen.com/2009/05/06/introduction-to-mapreduce-for-net-developers/)
 
+## C ++
+*   [Stephan T. Lavavej STL](http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-)  
+*   [Stephan T. Lavavej Core C++](http://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-)  
+
 ## .NET
 *   [Free ASP .NET MVC Tutorial](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
 ([pdf](http://aspnetmvcbook.s3.amazonaws.com/aspnetmvc-nerdinner_v1.pdf))
