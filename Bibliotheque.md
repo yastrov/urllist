@@ -12,6 +12,7 @@ Grokking Android](http://www.grokkingandroid.com/tutorials/)
 *   [
 Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)  
 *   [Stanford CS193a (for old Android)](http://www.stanford.edu/class/cs193a/)  
+*   [Youtube ru](https://www.youtube.com/user/vitaxafication)
 
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
@@ -109,6 +110,8 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Twisted Introduction](http://krondo.com/?page_id=1327)
 *   [Effective Django](http://effectivedjango.com/)
 *   Miguel Grinberg about Flask [tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [examples](https://github.com/miguelgrinberg/flasky/tree/master/app) [full blog](http://blog.miguelgrinberg.com/)  
+*   [Diving deep into Python article](http://sebastianraschka.com/Articles/2014_deep_python.html)  
+*   [Character Encoding & Unicode - How to (slideshare presentation)](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
