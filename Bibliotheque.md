@@ -112,6 +112,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   Miguel Grinberg about Flask [tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [examples](https://github.com/miguelgrinberg/flasky/tree/master/app) [full blog](http://blog.miguelgrinberg.com/)  
 *   [Diving deep into Python article](http://sebastianraschka.com/Articles/2014_deep_python.html)  
 *   [Character Encoding & Unicode - How to (slideshare presentation)](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863)  
+*   [wxPython video tutorial](http://webtech-training.blogspot.in/2014/04/learn-wxpython-basic-step-by-step.html)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
