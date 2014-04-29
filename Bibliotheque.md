@@ -64,6 +64,9 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Gitflow](https://github.com/nvie/gitflow) - A collection of Git extensions to provide high-level repository operations for Vincent Driessen's [branching model](http://nvie.com/git-model).
 *   [Git Cheat Sheet](http://cheat.errtheblog.com/s/git)
 
+## Go
+*   [An Introduction to Programming in Go by Caleb Doxsey.](http://www.golang-book.com/)  
+
 ## Haskell
 *   [Ru Haskell book](http://anton-k.github.io/ru-haskell-book/book/home.html)  
 *   [О Haskell по-человечески](http://ohaskell.ru/)  
