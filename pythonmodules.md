@@ -115,6 +115,7 @@ Highload?
 
 # For Flask
 *  Miguel Grinberg [tutrial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) [examples](https://github.com/miguelgrinberg/flasky/tree/master/app) [full blog](http://blog.miguelgrinberg.com/)  
+*  [Luis Rei: Implementing a RESTful Web API with Python & Flask](http://blog.luisrei.com/articles/flaskrest.html)
 
 # Other
 *  [PyWin32](http://sourceforge.net/projects/pywin32/)
