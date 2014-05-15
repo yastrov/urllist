@@ -116,6 +116,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Diving deep into Python article](http://sebastianraschka.com/Articles/2014_deep_python.html)  
 *   [Character Encoding & Unicode - How to (slideshare presentation)](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863)  
 *   [wxPython video tutorial](http://webtech-training.blogspot.in/2014/04/learn-wxpython-basic-step-by-step.html)  
+*   [wxPython and Python for action](http://python-lab.blogspot.ru/search/label/wxPython) [github](https://github.com/freephys/wxPython-In-Action)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
