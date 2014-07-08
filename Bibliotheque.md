@@ -126,6 +126,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   "О чём думает змея" (Python Interpreter and VM info) [ru](http://habrahabr.ru/company/buruki/blog/189972/)  
 *   Unipain - Unicode in Python [url](http://nedbatchelder.com/text/unipain.html)  
 *   Python Unicode [presentation](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863) [video](http://pyvideo.org/video/2625/character-encoding-and-unicode-in-python)  
+*   [Simple about Closures and Lambda in loop](http://stackoverflow.com/questions/1841268/generating-functions-inside-loop-with-lambda-expression-in-python)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
