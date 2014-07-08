@@ -117,6 +117,15 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Character Encoding & Unicode - How to (slideshare presentation)](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863)  
 *   [wxPython video tutorial](http://webtech-training.blogspot.in/2014/04/learn-wxpython-basic-step-by-step.html)  
 *   [wxPython and Python for action](http://python-lab.blogspot.ru/search/label/wxPython) [github](https://github.com/freephys/wxPython-In-Action)  
+*   David Beazley [url](http://www.dabeaz.com/)  
+*   A. Svetlov - Python Core Developer [ru blog](http://asvetlov.blogspot.ru/)  
+*   Cafepy (good about Types and Objects) [url](http://www.cafepy.com/article/)  
+*   [Eli Bendersky blog](http://eli.thegreenplace.net/)  
+*   Byteplay [doc](https://wiki.python.org/moin/ByteplayDoc) [Also about load vars](http://www.pythondoeswhat.com/author/mahmoud.html)  
+*   [Disassembly - Python stack VM pictures](https://www.ics.uci.edu/~pattis/ICS-33/lectures/disassembly.txt)  
+*   "О чём думает змея" (Python Interpreter and VM info) [ru](http://habrahabr.ru/company/buruki/blog/189972/)  
+*   Unipain - Unicode in Python [url](http://nedbatchelder.com/text/unipain.html)  
+*   Python Unicode [presentation](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863) [video](http://pyvideo.org/video/2625/character-encoding-and-unicode-in-python)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
@@ -141,6 +150,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 ## Other
 *   [MapReduce](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/dean/dean.pdf) [google version](http://research.google.com/archive/mapreduce.html)  
 *   [Data-Intensive Text Processing with MapReduce](https://github.com/lintool/MapReduceAlgorithms) [site](http://lintool.github.io/MapReduceAlgorithms/index.html)  
+*   "What every programmer should know about memory" [eng](http://lwn.net/Articles/250967/) [rus](http://rus-linux.net/lib.php?name=/MyLDP/hard/memory/memory.html)  
 
 ## See also free collections
 *   [habr](http://habrahabr.ru/post/191312/)
