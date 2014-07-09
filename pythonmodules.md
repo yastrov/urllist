@@ -29,8 +29,12 @@ List of non-default python modules
 *   [html5lib](http://code.google.com/p/html5lib/‎)
 *   [BeatifulSoup](http://www.crummy.com/software/BeautifulSoup/)
 
+## FTP server
+*   [pyftpd](https://github.com/giampaolo/pyftpdlib)  
+
 # RSS, Atom:
-*   feedparser [docs](http://packages.python.org/feedparser)
+*   feedparser [docs](http://packages.python.org/feedparser)  
+*   feedformatter [url](http://code.google.com/p/feedformatter)  
 
 ## SQL ORM:
 *   SQLAlchemy (use scoped_session for Thread safe) [official](http://www.sqlalchemy.org/)
