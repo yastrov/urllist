@@ -129,6 +129,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   Python Unicode [presentation](http://www.slideshare.net/fischertrav/character-encoding-unicode-how-to-with-dignity-33352863) [video](http://pyvideo.org/video/2625/character-encoding-and-unicode-in-python)  
 *   [Simple about Closures and Lambda in loop](http://stackoverflow.com/questions/1841268/generating-functions-inside-loop-with-lambda-expression-in-python)  
 *   Video collection [url](https://github.com/s16h/py-must-watch)  
+*   "Беглый обзор "внутренностей" Python, Никита Лесников" [часть1 ](http://www.slideshare.net/MinskPythonMeetup/python-guts-sneakpeek) [часть 2](http://www.slideshare.net/MinskPythonMeetup/ss-26224370)  
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
