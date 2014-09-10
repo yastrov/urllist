@@ -94,6 +94,10 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 ## Machine Learning
 *   [Лекция Воронцова](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)  [shad](http://shad.yandex.ru/lectures/machine_learning.xml) [видео на Yandex.Disc](http://yadi.sk/d/V9p7E6uAFjHcD)  
 
+## Markdown
+*   [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+*   [CommonMark](http://commonmark.org/)
+
 ## Mercurial
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com/read/)
 *   [Hg Init: a Mercurial tutorial by Joel Spolsky](http://hginit.com/) ([Ru](http://habrahabr.ru/post/108658/))
