@@ -75,6 +75,15 @@ Highload?
 ## Markdown:
 *   [python-markdown2](https://github.com/trentm/python-markdown2)
 
+## MySQL
+*   [PyMySQL](https://github.com/PyMySQL/PyMySQL)
+*   [CyMySQL](https://github.com/nakagami/CyMySQL)
+*   [MySQL-for-Python-3](https://github.com/davispuh/MySQL-for-Python-3)
+*   mysql-connector-python [PyPi](https://pypi.python.org/pypi/mysql-connector-python) [github](https://github.com/oracle/mysql-connector-python) [doc](http://geert.vanderkelen.org/category/work/mysql-work/)
+*   [pymysql](https://pypi.python.org/pypi/pymysql)
+*   [mysqlclient](https://pypi.python.org/pypi/mysqlclient)
+*   [sqlshort](https://code.google.com/p/sqlshort/)
+
 ## Game:
 *   [Ogre](http://www.python-ogre.org/)
 *   PyGame [docs](http://www.pygame.org/docs/) [bitbucket](https://bitbucket.org/pygame/pygame/downloads)
