@@ -134,6 +134,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Simple about Closures and Lambda in loop](http://stackoverflow.com/questions/1841268/generating-functions-inside-loop-with-lambda-expression-in-python)  
 *   Video collection [url](https://github.com/s16h/py-must-watch)  
 *   "Беглый обзор "внутренностей" Python, Никита Лесников" [часть1 ](http://www.slideshare.net/MinskPythonMeetup/python-guts-sneakpeek) [часть 2](http://www.slideshare.net/MinskPythonMeetup/ss-26224370)  
+*   "Python: faster way" (optimization) [url](http://pythonfasterway.uni.me/) [github](https://github.com/zokis/Python--Faster-Way)
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
