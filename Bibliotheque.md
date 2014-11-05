@@ -50,6 +50,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Edward Tufte](http://edwardtufte.ru/)
 
 ## Git
+*   Pro Git 2nd Edition [en](https://github.com/progit/progit2/releases) [ru](https://github.com/progit/progit2)
 *   [Think like a Git](http://think-like-a-git.net/)
 *   [Git Ready](http://gitready.com/)
 *   [Git Immersion](http://gitimmersion.com/)
@@ -135,6 +136,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   Video collection [url](https://github.com/s16h/py-must-watch)  
 *   "Беглый обзор "внутренностей" Python, Никита Лесников" [часть1 ](http://www.slideshare.net/MinskPythonMeetup/python-guts-sneakpeek) [часть 2](http://www.slideshare.net/MinskPythonMeetup/ss-26224370)  
 *   "Python: faster way" (optimization) [url](http://pythonfasterway.uni.me/) [github](https://github.com/zokis/Python--Faster-Way)
+*   [Understanding Python Bytecode](http://security.coverity.com/blog/2014/Nov/understanding-python-bytecode.html)
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
