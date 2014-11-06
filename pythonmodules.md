@@ -13,7 +13,7 @@ List of non-default python modules
 
 ## OAuth:
 *   python-oauth2 (Keep-Alive support) [github](https://github.com/simplegeo/python-oauth2) [py3 fork](https://github.com/tseaver/python-oauth2)
-*   rauth (oauth) [github](https://github.com/litl/rauth)
+*   rauth (oauth, oauth2) - best choice [github](https://github.com/litl/rauth) [doc](http://readthedocs.org/docs/rauth/en/latest/)
 *   [python-foauth2](https://github.com/jackdied/python-foauth2)
 *   Django OAuth 2.0 Server App [doc](http://hiidef.github.io/oauth2app/) [github](https://github.com/hiidef/oauth2app)
 *   OAuth2 goodies for the Djangonauts! [github](https://github.com/evonove/django-oauth-toolkit)  
