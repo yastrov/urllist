@@ -137,6 +137,8 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   "Беглый обзор "внутренностей" Python, Никита Лесников" [часть1 ](http://www.slideshare.net/MinskPythonMeetup/python-guts-sneakpeek) [часть 2](http://www.slideshare.net/MinskPythonMeetup/ss-26224370)  
 *   "Python: faster way" (optimization) [url](http://pythonfasterway.uni.me/) [github](https://github.com/zokis/Python--Faster-Way)
 *   [Understanding Python Bytecode](http://security.coverity.com/blog/2014/Nov/understanding-python-bytecode.html)
+*   [Eli Bendersky Python internals: how callables work](http://eli.thegreenplace.net/2012/03/23/python-internals-how-callables-work)
+*   [Eli Bendersky Implementing a generator/yield in a Python C extension work](http://eli.thegreenplace.net/2012/04/05/implementing-a-generatoryield-in-a-python-c-extension)
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
