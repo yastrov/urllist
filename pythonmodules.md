@@ -132,6 +132,7 @@ Highload?
 
 # Other
 *  [PyWin32](http://sourceforge.net/projects/pywin32/)
+*  [Pythonic package for combinatorics: combi](https://github.com/cool-RR/combi)
 
 ## Links
 *  [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)  
