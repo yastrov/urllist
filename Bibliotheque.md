@@ -141,6 +141,7 @@ Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
 *   [Understanding Python Bytecode](http://security.coverity.com/blog/2014/Nov/understanding-python-bytecode.html)
 *   [Eli Bendersky Python internals: how callables work](http://eli.thegreenplace.net/2012/03/23/python-internals-how-callables-work)
 *   [Eli Bendersky Implementing a generator/yield in a Python C extension work](http://eli.thegreenplace.net/2012/04/05/implementing-a-generatoryield-in-a-python-c-extension)
+*   Как работает Dict [http://habrahabr.ru/post/247843/](http://habrahabr.ru/post/247843/), [http://www.slideshare.net/MinskPythonMeetup/ss-26224561](http://www.slideshare.net/MinskPythonMeetup/ss-26224561), [http://rhodesmill.org/brandon/slides/2010-03-pycon/](http://rhodesmill.org/brandon/slides/2010-03-pycon/)
 
 ## Redis
 *   [The Little Redis Book](https://github.com/karlseguin/the-little-redis-book) ([ru](https://github.com/kondratovich/the-little-redis-book))
