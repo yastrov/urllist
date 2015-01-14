@@ -13,6 +13,7 @@
 -  [JSLint](http://www.jslint.com/)
 -  [js.do](http://js.do/)
 -  [http://repl.it/languages/Javas%D1%81ript](http://repl.it/languages/Javas%D1%81ript)
+-  Javascript Beautiful [http://jsbeautifier.org/](http://jsbeautifier.org/)
 
 ## JSON
 -  [JSONLint](http://jsonlint.com/)
