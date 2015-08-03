@@ -1,6 +1,10 @@
 # Bibliotheque
 
 ## Android
+*   [http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
+*   [http://www.compiletimeerror.com/2013/07/android-tutorials.html](http://www.compiletimeerror.com/2013/07/android-tutorials.html)
+*   [LearnDroid (ru)](http://www.youtube.com/watch?v=M84LovnPldw&index=11&list=PLufI-p7bsMuRbTCnsoLrN6rWDl8MQ_TMM)
+*   [http://www.truiton.com/category/android/](http://www.truiton.com/category/android/)
 *   [Android Programming Tutorials](http://commonsware.com/AndTutorials/)
 *   [The Busy Coder's Guide to Advanced Android Development](http://commonsware.com/AdvAndroid/)
 *   [Статьи Дарьи Ряжских](http://darja.info/ru/articles)
@@ -13,6 +17,7 @@ Grokking Android](http://www.grokkingandroid.com/tutorials/)
 Google Android (Ru)](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)  
 *   [Stanford CS193a (for old Android)](http://www.stanford.edu/class/cs193a/)  
 *   [Youtube ru](https://www.youtube.com/user/vitaxafication)
+*   [Процессы и потоки в Android: пишем AsyncTask правильно](http://habrahabr.ru/post/124484/)
 
 ## Bash
 *   [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) ([ru](http://www.opennet.ru/docs/RUS/bash_scripting_guide/))
